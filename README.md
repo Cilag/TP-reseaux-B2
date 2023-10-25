@@ -1,6 +1,6 @@
 # TP2 : Environnement virtuel
 
-![Text](https://th.bing.com/th/id/R.a23d318bd651fc085fb2988c792a6dac?rik=al1W9su%2b4xzNaA&riu=http%3a%2f%2fwww.quickmeme.com%2fimg%2fc7%2fc774925b2292b2f95637711cc90fbce8a18cebbcb904d6adc5248defdfd18521.jpg&ehk=ydsx4JSVGSx3K7iHHJSqgYV24%2fvbMeAoMU3J9cVNXVo%3d&risl=&pid=ImgRaw&r=0
+![Alt text](<TP 2/img/R.jpg>)
 
 Dans ce TP, on remanipule toujours les mêmes concepts qu'au TP1, mais en environnement virtuel avec une posture un peu plus orientée administrateur qu'au TP1.
 
@@ -81,7 +81,7 @@ traceroute to 10.1.2.12 (10.1.2.12), 30 hops max, 60 byte packets
 ```
 
 # II. Interlude accès internet
-
+![Alt text](<TP 2/img/R (1).jpg>)
 ☀️ **Sur `router.tp2`**
 
 - prouvez que vous avez un accès internet (ping d'une IP publique)
@@ -134,6 +134,8 @@ nameserver 1.1.1.1
 ```
 - prouvez que `node2.lan1.tp2` a un accès internet :
   - il peut ping une IP publique
+
+![Alt text](<TP 2/img/OIP.jpg>)
 ```
   [c1@node2 ~]$ ping 1.1.1.1
 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
@@ -157,9 +159,9 @@ PING google.com (142.250.75.238) 56(84) bytes of data.
 4 packets transmitted, 3 received, 25% packet loss, time 3007ms
 rtt min/avg/max/mdev = 18.021/18.425/19.186/0.538 ms
 ```
-
 # III. Services réseau
 ## 1. DHCP
+![Alt text](<TP 2/img/e8fa6aefad3afa081d286b5f649007eb42433e601ab917474a57ef12993ef8d7_1.jpg>)
 ☀️ **Sur `dhcp.lan1.tp2`**
 
 - n'oubliez pas de renommer la machine (`node2.lan1.tp2` devient `dhcp.lan1.tp2`)
@@ -385,3 +387,4 @@ $ curl site_nul.tp2
 </body>
 </html>
 ```
+![Alt text](<TP 2/img/aafb72a6810f87fe0b98b5dd93f4423069399e922c386b2f21f7d2b797d7d4d7_1.jpg>)
