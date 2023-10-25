@@ -1,5 +1,6 @@
 # TP2 : Environnement virtuel
-![ ](TP2/images/R.jpg)
+
+![Text](https://th.bing.com/th/id/R.a23d318bd651fc085fb2988c792a6dac?rik=al1W9su%2b4xzNaA&riu=http%3a%2f%2fwww.quickmeme.com%2fimg%2fc7%2fc774925b2292b2f95637711cc90fbce8a18cebbcb904d6adc5248defdfd18521.jpg&ehk=ydsx4JSVGSx3K7iHHJSqgYV24%2fvbMeAoMU3J9cVNXVo%3d&risl=&pid=ImgRaw&r=0
 
 Dans ce TP, on remanipule toujours les mêmes concepts qu'au TP1, mais en environnement virtuel avec une posture un peu plus orientée administrateur qu'au TP1.
 
