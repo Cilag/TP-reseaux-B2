@@ -282,7 +282,7 @@ un 3-way handshake
 un peu de trafic
 la fin de la connexion TCP
 
-[Lien vers capture DNS](./captures_tcp.pcapng)
+[Lien vers capture TCP](./captures_tcp.pcapng)
 
 
 Si vous utilisez un filtre Wireshark pour mieux voir ce trafic, précisez-le moi dans le compte-rendu.
